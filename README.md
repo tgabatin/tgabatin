@@ -2,7 +2,7 @@
 
 I'm a Software Engineer and Consultant that's passionate about technology. I graduated with degrees in Computer Science & Quantitative Economics, but I am now pursuing a Masters in Electrical Engineering and Data Science.
 
-I have many interests when it comes to tech! However, I specialize in Full Stack Web Development, DevOps, and Cloud Software and Security. 
+I have many interests when it comes to tech! However, I specialize in Full Stack Web Development, DevOps, and Cloud Software and Security in the Application/Digital Performance Monitoring space. 
 
 Some of my personal projects and endeavors; however, are more rooted in video game/VR/AR development as they tie to the natural sciences, Data Science merged with Robotics and Embedded Systems, and Full Stack Development. 
 
