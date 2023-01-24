@@ -33,9 +33,9 @@ I hope you enjor your stay!
 <br />
 
 
-![Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=tgabatin&show_icons=true&theme=radical)
+![Taylor's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tgabatin&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgabatin&theme=radical&layout=compact)](https://github.com/tgabatin/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tgabatin&theme=radical&layout=compact)](https://github.com/tgabatin/github-readme-stats)
 
 
 
