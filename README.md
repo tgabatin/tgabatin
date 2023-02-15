@@ -6,7 +6,7 @@ I have many interests when it comes to tech! However, I specialize in Full Stack
 
 Some of my personal projects and endeavors; however, are more rooted in video game/VR/AR development as they tie to the natural sciences, Data Science merged with Robotics and Embedded Systems, and Full Stack Development. 
 
-I hope you enjor your stay! 
+I hope you enjoy your stay! 
 
 <br />
 
