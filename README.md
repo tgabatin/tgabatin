@@ -1,6 +1,10 @@
 # Hi, I'm Taylor Sanchez (Gabatino)!
 
+<<<<<<< HEAD
 I'm a Software Engineer and Consultant that's passionate about technology. I graduated with degrees in Computer Science & Quantitative Economics, and am currently continuing my education with a Masters in Computer Science.
+=======
+I'm a Software Engineer and Consultant that's passionate about technology. I graduated with a double major in Computer Science & Quantitative Economics, and I am now pursuing a Masters in Electrical Engineering and Data Science.
+>>>>>>> d0f5fb923d623010b7c45f62e07c1bb503ff4da1
 
 I have many interests when it comes to tech! However, I specialize in Full Stack Web Development, DevSecOps, and Cloud Software and Security in Software Architecture.
 
