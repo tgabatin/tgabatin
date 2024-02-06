@@ -1,12 +1,14 @@
-# Hi, I'm Taylor Sanchez (Gabatino)!
+# Aloha! 🌺 I'm Taylor Sanchez (Gabatino)!
 
-I'm a Software Engineer and Consultant that's passionate about technology. I graduated with degrees in Computer Science & Quantitative Economics, and am currently continuing my education with a Masters in Computer Science and Engineering Management.
+I'm a Software Engineer and Consultant that's passionate about technology. I am a proud graduate of the University of Hawaii at Manoa, holding a Bachelor of Science and Arts in both Computer Science & Quantitative Economics, with a minor in Mathematics and Philosophy, and am currently continuing my education at the University of Colorado, Boulder with a Masters in Computer Science and Engineering Management. I believe that the computational sciences and mathematics as applied to STEM gives enormous opportunities for development and change, but more importantly, creativity and imagination to make these amazing feats possible. It's the reason I chose this field, and the reason I fall in love with it more every day. 
 
-I have many interests when it comes to tech! However, I specialize in Full Stack Web Development, DevSecOps, and Cloud Software and Security in Software Architecture and Design.
+I have many interests when it comes to tech, and believe that all integrations and specialties in computer science hold their weight of importance. However, my specialized knowledge is in Software Architecture and Design, DevSecOps, and Data Science and AI. 
 
-Some of my personal projects and endeavors; however, are more rooted in algorithmic complexity as they tie to the natural sciences, Data Science & AI merged with Robotics and Embedded Systems, and of course, Systems Design and Architecture. 
+Some of my personal projects and endeavors; however, are more rooted in algorithmic complexity as they tie to the natural sciences, Robotics and Embedded Systems, and of course, VR/AR/MR as they relate to video game development.
 
-I hope you enjoy your stay! 
+As I welcome the opportunity for new challenges and knowledge, please feel free to contact me for any of my more personal projects, or if you'd like to connect and work together. 
+
+Mahalo Nui Loa! 🌴
 
 <br />
 
