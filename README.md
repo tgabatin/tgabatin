@@ -31,14 +31,6 @@ Mahalo Nui Loa! 🌴
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Cplusplus" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 
-<br />
-<br />
-
-
-![Taylor's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tgabatin&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tgabatin&theme=radical&layout=compact)](https://github.com/tgabatin/github-readme-stats)
-
 
 
 
