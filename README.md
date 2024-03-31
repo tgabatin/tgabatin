@@ -4,7 +4,7 @@ I'm a Software Engineer and Consultant that's passionate about technology. I am 
 
 I have many interests when it comes to tech, and believe that all integrations and specialties in computer science hold their weight of importance. However, my specialized knowledge is in Software Architecture and Design, DevSecOps, and Data Science and AI. 
 
-Some of my personal projects and endeavors; however, are more rooted in algorithmic complexity as they tie to the natural sciences, Robotics and Embedded Systems, and of course, VR/AR/MR as they relate to video game development.
+Some of my personal projects and endeavors; however, are more rooted in algorithmic complexity as they tie to the natural sciences, Robotics and Embedded Systems, and of course, VR/AR/MR as they relate to video game development. I also enjoy applying my economics knowledge to analyze socio-economic phenomena utilizing Game Theory, Econometrics, and Network Science to model the mathematics behind this data.
 
 As I welcome the opportunity for new challenges and knowledge, please feel free to contact me for any of my more personal projects, or if you'd like to connect and work together. 
 
