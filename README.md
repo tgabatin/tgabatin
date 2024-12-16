@@ -1,12 +1,6 @@
 # Aloha! 🌺 I'm Taylor Sanchez (Gabatino)!
 
-I'm a Software Engineer and Consultant that's passionate about technology. I am a proud graduate of the University of Hawaii at Manoa, holding a Bachelor of Science and Arts in both Computer Science & Quantitative Economics, with a minor in Mathematics and Philosophy, and am currently continuing my education at the University of Colorado, Boulder with a Masters in Computer Science and Engineering Management. My continuous pursuit of knowledge and learning is something that I hold high standards for in myself, and I consistently apply to refine my education through both traditional and non-traditional pursuits to consistently perfect the craft of Software Architecture and Systems Engineering. I believe that the computational sciences and mathematics as applied to STEM gives enormous opportunities for development and change, but more importantly, creativity and imagination to make these amazing feats possible. It's the reason I chose this field, and the reason I fall in love with it more every day. 
-
-I have many interests when it comes to tech, and believe that all integrations and specialties in computer science hold their weight of importance. However, my specialized knowledge is in Software Architecture and Systems Design, DevSecOps, and Data Science/AI.
-
-Some of my personal projects and endeavors; however, are more rooted in algorithmic complexity as they tie to the natural sciences, Robotics and Embedded Systems, and of course, VR/AR/MR as they relate to video game development. I also enjoy applying my economics knowledge to analyze socio-economic phenomena utilizing Game Theory, Econometrics, and Network Science to model the mathematics behind this data.
-
-As I welcome the opportunity for new challenges and knowledge, please feel free to contact me for any of my more personal projects, or if you'd like to connect and work together. 
+Making computers go beep-bop. 
 
 Mahalo Nui Loa! 🌴
 
