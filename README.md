@@ -1,6 +1,6 @@
 # Aloha! 🌺 I'm Taylor Sanchez (Gabatino)!
 
-Making computers go beep-bop. 
+Making computers go beep-bop, byte by byte. 
 
 Mahalo Nui Loa! 🌴
 
